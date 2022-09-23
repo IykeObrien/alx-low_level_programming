@@ -1,1 +1,1 @@
-pointers,arrays,stringsC
+102-magic.c
