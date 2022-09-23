@@ -1,1 +1,1 @@
-0x06. C - More pointers, arrays and striings2
+‘task 10’
