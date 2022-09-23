@@ -1,1 +1,1 @@
-‘task 10’
+pointers,arrays,stringsC
